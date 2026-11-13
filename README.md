@@ -1,6 +1,6 @@
-# NAME: SIRANJITH E
-# REGISTER NO: 212224060252
-# DATE: 1.11.26
+# NAME: DEEPAN S
+# REGISTER NO: 212224060054
+# DATE: 13.11.26
 # Ex.No.4b--MACHINE-LEARNING-MODEL-HEART-DISEASE-PREDICTION
 ## AIM
 To develop a Heart Disease Prediction model using machine learning classification algorithms and compare the performance of different models using suitable evaluation metrics.
